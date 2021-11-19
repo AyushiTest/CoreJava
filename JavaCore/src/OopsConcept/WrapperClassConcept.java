@@ -29,7 +29,7 @@ public class WrapperClassConcept {
 	
 	
 	String u = "100M";
-	Integer.parseInt(u);   // It will give me NumberFormatException
+	Integer.parseInt(u);   // It will give me NumberFormatException if do this
 	
 		
 		

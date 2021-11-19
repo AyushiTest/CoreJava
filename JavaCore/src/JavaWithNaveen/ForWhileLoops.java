@@ -14,7 +14,7 @@ public class ForWhileLoops {
 //			x=x+5 ;                  // increment/decrement
 //		}
 		
-	//	for loop
+//	 for loop
 		
 //		for (int i = 2; i<=20; i=i+2)    // (initialization,condition,increment/decrement )
 //		{

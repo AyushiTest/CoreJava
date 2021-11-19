@@ -10,8 +10,8 @@ public class CarClass {
 	
 	public static void main(String[] args) {
 	
-	// new car() :- this is object of car class
-	// new keyword use to create the object 
+	// New car() :- this is object of car class
+	// New keyword use to create the object 
 	// a,b,c are object reference variables
 		
 

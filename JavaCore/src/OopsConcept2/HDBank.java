@@ -5,7 +5,7 @@ public class HDBank implements USBank,BrazilBank{  // we are acheiving multiple 
 	
    //If a class is implements any interface then its mandatory to define/override all the methods of interface	
 	
-	// overriding from US bank
+	// Overriding from US bank
 public void credit() {
 	System.out.println("Credit HDBank");
 }

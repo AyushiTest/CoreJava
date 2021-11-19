@@ -5,7 +5,7 @@ public class StaticArray {
 	public static void main(String[] args) {
 		
 //array:- to store similar data type in a array variable
-// disadvantage of array : 
+// Disadvantage of array : 
 //1. size is fixed "static array",-- to over come it use Collect :- arraylist, hashtag, :- use dynamic array
 // 2. store similar data type  :- to overcome it : we use object array
 		

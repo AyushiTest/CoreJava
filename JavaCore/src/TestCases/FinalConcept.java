@@ -8,7 +8,7 @@ public class FinalConcept {
 		 a= 300;
 		 System.out.println(a);
 		
-	final int  b = 100;   //Constant Value
+	final int  b = 100;   //Constant value
 	System.out.println(b);
 		
 		

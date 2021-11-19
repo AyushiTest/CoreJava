@@ -4,7 +4,7 @@ package OopsConcept;
 public class FunctionInJava {
 
 	
-	//main method --> starting point of execution 
+	//Main Method --> starting point of execution 
 	public static void main(String[] args) {
 		
 		

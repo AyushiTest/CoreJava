@@ -3,7 +3,7 @@ package OopsConcept;
 
 public class LocalVsGlobalVariable {
   
-	// Global Var who declare in class also called : Class Variable
+	// Global variable who declare in class also called : Class Variable
 	String name = "Ayu";
 	int age = 25;
 	

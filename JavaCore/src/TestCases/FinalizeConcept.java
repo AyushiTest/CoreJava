@@ -18,7 +18,7 @@ public class FinalizeConcept {
 		System.gc();
 		
 		
-		//finalize is the method
+		//Finalize is the method
 		
 		
 	}

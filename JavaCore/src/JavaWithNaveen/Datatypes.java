@@ -15,7 +15,7 @@ public class Datatypes {
 //		int y = -10;
 //		System.out.println(y);
 //		
-		// 2nd -Doubles
+		// 2nd -  Doubles
 
 //		double d = 20.5;
 //		double d1 = 27.5;

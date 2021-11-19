@@ -22,7 +22,7 @@ public class HashTableConcept {
   
   Hashtable<Integer, Integer> h1 = new Hashtable<Integer, Integer>();	
   h1.put(3, 50);
- // h1.put("b", "bobby");
+ // h1.put("b", "bobby");  
   
   
   

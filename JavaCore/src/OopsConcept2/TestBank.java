@@ -13,8 +13,8 @@ public class TestBank {
 	hd.EducationLoan();
 	hd.CarLoan();
 	
-	//dynamic polymorphism :
-	// child class object can be referenced by parent interface reference var
+	//  Dynamic polymorphism :
+	//  Child class object can be referenced by parent interface reference var
 	USBank us = new HDBank();
 	us.credit();
 	us.debit();

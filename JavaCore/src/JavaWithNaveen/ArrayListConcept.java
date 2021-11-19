@@ -11,10 +11,10 @@ public class ArrayListConcept {
 		ar.add(200); //1
 		System.out.println(ar.size());
 		
-		ar.add(300); //2
-		ar.add("hello"); //3
-		ar.add("m"); //4
-		ar.add("maa"); //5
+		ar.add(300);        //2
+		ar.add("hello");    //3
+		ar.add("m");        //4
+		ar.add("maa");      //5
 		
 		System.out.println(ar.size());
 		ar.remove(5);

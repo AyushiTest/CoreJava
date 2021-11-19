@@ -17,7 +17,7 @@ public class StaticAndNonStaticConcept {
 		StaticAndNonStaticConcept.mail();                     //method
 		System.out.println(StaticAndNonStaticConcept.age);    //variable
 		
-		// how to call non static method and variables 
+		// How to call non static method and variables 
 		StaticAndNonStaticConcept obj= new StaticAndNonStaticConcept();
 		obj.sendmail();
 		System.out.println(obj.name);

@@ -25,8 +25,8 @@ Car C1 = new Audi();  // child class object can be referred by parent class refe
 		C1.Stop();
 		C1.refuel();
 		
-		//down casting
-	//	Audi A1 = (Audi) new Car();   //ClassCastException
+		//  down casting
+	   //	Audi A1 = (Audi) new Car();   //ClassCastException
 		
 		
 	}

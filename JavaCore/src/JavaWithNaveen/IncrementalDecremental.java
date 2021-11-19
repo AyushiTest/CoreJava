@@ -14,7 +14,7 @@ public class IncrementalDecremental {
 		System.out.println("********");
 		
 		int x = 2;
-		int y = ++x;    //pre incremental
+		int y = ++x;    //Pre incremental
 		
 		System.out.println(x);
 		System.out.println(y);
