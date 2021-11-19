@@ -5,7 +5,7 @@ public class StringConcatenation {
 	public static void main(String[] args) {
 		
 		
-		//String Concatenation
+		//String concatenation
 		
 		int x = 100 ;
 		int y = 200 ;

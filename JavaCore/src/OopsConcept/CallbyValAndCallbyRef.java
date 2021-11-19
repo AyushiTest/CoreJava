@@ -10,7 +10,7 @@ public class CallbyValAndCallbyRef {
 		CallbyValAndCallbyRef obj = new CallbyValAndCallbyRef();
 		int m = 20;
 		int n = 30;
-		obj.sum(m,n);   //Call by value or pass by value
+		obj.sum(m,n);   //call by value or pass by value
 		
 		obj.p=40;
 		obj.q=50;

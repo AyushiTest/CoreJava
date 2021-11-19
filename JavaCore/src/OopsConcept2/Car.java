@@ -1,6 +1,6 @@
 package OopsConcept2;
 
-public class Car extends Vechile {      //Relationship
+public class Car extends Vechile {      //relationship
 
 	public void  Start() {
 		System.out.println("***Start car***");

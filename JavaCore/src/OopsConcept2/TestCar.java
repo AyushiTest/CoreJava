@@ -4,7 +4,7 @@ public class TestCar {
 
 	public static void main(String[] args) {
 		
-		//static polymorphism -- compile time polymorphism
+		//Static Polymorphism -- compile time polymorphism
 		Audi A = new Audi();
 		A.Start();
 		A.Stop();

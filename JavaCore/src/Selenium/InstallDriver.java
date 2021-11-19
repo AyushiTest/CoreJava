@@ -18,7 +18,7 @@ System.setProperty("webdriver.chrome.driver", "/D:/Ayu/Installs/chromedriver.exe
 		
 		
 		
-	//	driver.findElement()
+	//	driver.findElement()     for find the element
 		
 	
 		

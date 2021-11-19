@@ -16,7 +16,7 @@ public class MethodOverloading {
 	// When can overload main method also
 	// We can not create a method within the method
 	// Duplicate method:-  same method name with same arguments/input are not allowed
-	// Method overloading :- when method name are same with different arguments/input and different data type within the class
+	// method overloading :- when method name are same with different arguments/input and different data type within the class
 	
 	public void sum() {
 		System.out.println("Method-with 0 input");

@@ -36,7 +36,7 @@ public class ArrayListConcept {
 		ar1.add(100);
 	//	ar1("sem");
 				
-		
+		//
 		
 		
 	}

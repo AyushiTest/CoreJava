@@ -18,7 +18,7 @@ public class IfElseConcept {
 //			System.out.println("B is greater");
 //		}
 		
-		// Comparisom operator : < > <= >= != ==
+		// comparisom operator : < > <= >= != ==
 		
 //		double c = 30.55 ;
 //		double d = 30.05 ;

@@ -2,7 +2,7 @@ package OopsConcept;
 
 public class CarClass {
 
-	// Class vars
+	// class vars
 	
 	int model;
 	int wheel;

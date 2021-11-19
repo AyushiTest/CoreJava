@@ -3,7 +3,7 @@ package OopsConcept;
 
 public class StaticAndNonStaticConcept {
 
-	String name = "Ayu";   // Non-static Global variable
+	String name = "Ayu";   // non-static Global variable
 	static int age = 101;      // Static Global variable
 	
 	public static void main(String[] args) {

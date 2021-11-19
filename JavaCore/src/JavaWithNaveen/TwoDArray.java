@@ -11,7 +11,7 @@ public class TwoDArray {
 		
 		System.out.println(i[0].length +"  length of 2d aray of column");
 		
-	// 1st Row
+	     // 1st Row
 		i[0][0]= "A";
 		i[0][1]= "B";
 		i[0][2]= "C";

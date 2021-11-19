@@ -6,7 +6,7 @@ public class IncrementalDecremental {
 		
 		
 		int i = 1;
-		int j = i++;    //post incremental
+		int j = i++;    //Post incremental
 		
 		System.out.println(i);
 		System.out.println(j);

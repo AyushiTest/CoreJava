@@ -27,7 +27,7 @@ public class FunctionInJava {
      
 }	
 		
-		//Non Static Methods
+		//non Static Methods
    // 	return type :- void
 		public void test() {  //no input no output
 			System.out.println("test methods");

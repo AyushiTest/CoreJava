@@ -7,7 +7,7 @@ public class ParentClass {
 	}
 	
 	
-	// to prevent Inhertance, when using final in the parent class 
+	// to prevent inhertance, when using final in the parent class 
 	// to prevent method overriding 
 	
 	

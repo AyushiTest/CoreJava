@@ -9,7 +9,7 @@ public class ArrayListConcept {
 		
 		int a[] = new int [4];   //Static Array
 		
-		//Dnamic Array == Array List
+		//Dynamic Array == Array List
         // 1. Array List can contains Dublicates Values/elements.
 		// 2.  Maintain Insertion Order.
 		// 3. Synchronized.

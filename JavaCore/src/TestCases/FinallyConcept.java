@@ -8,7 +8,7 @@ public class FinallyConcept {
 	//	divison();
 	}
 	
-	// Finally is the block type 
+	// finally is the block type 
 	
 	public static void test1() {
 	try{
